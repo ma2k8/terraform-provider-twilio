@@ -23,6 +23,7 @@ website/node_modules
 *.iml
 *.test
 *.iml
+*.envrc
 
 # Test exclusions
 !command/test-fixtures/**/*.tfstate
